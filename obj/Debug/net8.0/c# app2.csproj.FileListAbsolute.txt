@@ -1,0 +1,14 @@
+C:\Users\22428\Desktop\c# app2\bin\Debug\net8.0\c# app2.exe
+C:\Users\22428\Desktop\c# app2\bin\Debug\net8.0\c# app2.deps.json
+C:\Users\22428\Desktop\c# app2\bin\Debug\net8.0\c# app2.runtimeconfig.json
+C:\Users\22428\Desktop\c# app2\bin\Debug\net8.0\c# app2.dll
+C:\Users\22428\Desktop\c# app2\bin\Debug\net8.0\c# app2.pdb
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.AssemblyInfoInputs.cache
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.AssemblyInfo.cs
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.csproj.CoreCompileInputs.cache
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.dll
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\refint\c# app2.dll
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.pdb
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\c# app2.genruntimeconfig.cache
+C:\Users\22428\Desktop\c# app2\obj\Debug\net8.0\ref\c# app2.dll
