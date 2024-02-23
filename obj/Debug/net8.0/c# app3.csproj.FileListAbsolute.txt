@@ -1,0 +1,15 @@
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.AssemblyInfoInputs.cache
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.AssemblyInfo.cs
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.csproj.CoreCompileInputs.cache
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.sourcelink.json
+C:\Users\22428\Desktop\c# app3\bin\Debug\net8.0\c# app3.exe
+C:\Users\22428\Desktop\c# app3\bin\Debug\net8.0\c# app3.deps.json
+C:\Users\22428\Desktop\c# app3\bin\Debug\net8.0\c# app3.runtimeconfig.json
+C:\Users\22428\Desktop\c# app3\bin\Debug\net8.0\c# app3.dll
+C:\Users\22428\Desktop\c# app3\bin\Debug\net8.0\c# app3.pdb
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.dll
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\refint\c# app3.dll
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.pdb
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\c# app3.genruntimeconfig.cache
+C:\Users\22428\Desktop\c# app3\obj\Debug\net8.0\ref\c# app3.dll
